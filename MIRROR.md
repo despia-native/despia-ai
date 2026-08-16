@@ -1,7 +1,7 @@
 # Read-only mirror
 
 This repository is generated from the Despia monorepo folder `OpenSource/AI`
-(commit `2366ff7ea0ed80cd46b53fcaf762bcdfad0f735d`).
+(commit `e4cd81670578182961aba108948957a096021f73`).
 
 - Please do not open pull requests here. Changes land in the monorepo, where
   the engine conformance gates run, and the next sync replaces this tree.
